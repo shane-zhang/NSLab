@@ -16,6 +16,15 @@ int main(void)
 	}
 	RSA_private_decrypt(RSA_size(r),buffer,buffer2,r,RSA_NO_PADDING);
 	printf("\n%s\n",buffer2);
+	
+	RSA_private_encrypt(RSA_size(r),"Xiao@09055136CS96",buffer,r,RSA_NO_PADDING);
+	printf("%s\n",buffer);
+	for(i=0;i<strlen(buffer);i++)
+	{
+		printf("%02x",(unsigned char)buffer[i]);
+	}
+	RSA_public_decrypt(RSA_size(r),buffer,buffer2,r,RSA_NO_PADDING);
+	printf("\n%s\n",buffer2);
 	RSA_free(r);
 	return 0;
 }
