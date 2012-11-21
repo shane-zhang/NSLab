@@ -1,0 +1,924 @@
+20:33:34.787237 IP shane-VirtualBox.53306 > www.xjtu.edu.cn.www: Flags [S], seq 579629789, win 5840, options [mss 1460,sackOK,TS val 608550 ecr 0,nop,wscale 5], length 0
+20:33:34.817792 IP www.xjtu.edu.cn.www > shane-VirtualBox.53306: Flags [S.], seq 91520001, ack 579629790, win 65535, options [mss 1460], length 0
+20:33:34.817820 IP shane-VirtualBox.53306 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:34.818179 IP shane-VirtualBox.53306 > www.xjtu.edu.cn.www: Flags [P.], seq 1:289, ack 1, win 5840, length 288
+20:33:34.818463 IP www.xjtu.edu.cn.www > shane-VirtualBox.53306: Flags [.], ack 289, win 65535, length 0
+20:33:34.846357 IP www.xjtu.edu.cn.www > shane-VirtualBox.53306: Flags [.], seq 1:1421, ack 289, win 65535, length 1420
+20:33:34.846383 IP shane-VirtualBox.53306 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:34.846522 IP www.xjtu.edu.cn.www > shane-VirtualBox.53306: Flags [P.], seq 1421:1461, ack 289, win 65535, length 40
+20:33:34.846529 IP shane-VirtualBox.53306 > www.xjtu.edu.cn.www: Flags [.], ack 1461, win 8520, length 0
+20:33:34.846552 IP www.xjtu.edu.cn.www > shane-VirtualBox.53306: Flags [.], seq 1461:2881, ack 289, win 65535, length 1420
+20:33:34.846556 IP shane-VirtualBox.53306 > www.xjtu.edu.cn.www: Flags [.], ack 2881, win 11360, length 0
+20:33:34.846638 IP www.xjtu.edu.cn.www > shane-VirtualBox.53306: Flags [.], seq 2881:4301, ack 289, win 65535, length 1420
+20:33:34.846644 IP shane-VirtualBox.53306 > www.xjtu.edu.cn.www: Flags [.], ack 4301, win 14200, length 0
+20:33:34.846665 IP www.xjtu.edu.cn.www > shane-VirtualBox.53306: Flags [.], seq 4301:5721, ack 289, win 65535, length 1420
+20:33:34.846669 IP shane-VirtualBox.53306 > www.xjtu.edu.cn.www: Flags [.], ack 5721, win 17040, length 0
+20:33:34.846687 IP www.xjtu.edu.cn.www > shane-VirtualBox.53306: Flags [FP.], seq 5721:6096, ack 289, win 65535, length 375
+20:33:34.847042 IP shane-VirtualBox.53306 > www.xjtu.edu.cn.www: Flags [F.], seq 289, ack 6097, win 19880, length 0
+20:33:34.847314 IP www.xjtu.edu.cn.www > shane-VirtualBox.53306: Flags [.], ack 290, win 65535, length 0
+20:33:34.867886 IP shane-VirtualBox.53307 > www.xjtu.edu.cn.www: Flags [S], seq 312259677, win 5840, options [mss 1460,sackOK,TS val 608570 ecr 0,nop,wscale 5], length 0
+20:33:34.867895 IP shane-VirtualBox.53308 > www.xjtu.edu.cn.www: Flags [S], seq 1128446660, win 5840, options [mss 1460,sackOK,TS val 608571 ecr 0,nop,wscale 5], length 0
+20:33:34.868130 IP shane-VirtualBox.53309 > www.xjtu.edu.cn.www: Flags [S], seq 85027626, win 5840, options [mss 1460,sackOK,TS val 608571 ecr 0,nop,wscale 5], length 0
+20:33:34.868318 IP shane-VirtualBox.53310 > www.xjtu.edu.cn.www: Flags [S], seq 2934874897, win 5840, options [mss 1460,sackOK,TS val 608571 ecr 0,nop,wscale 5], length 0
+20:33:34.868505 IP shane-VirtualBox.53311 > www.xjtu.edu.cn.www: Flags [S], seq 3634723682, win 5840, options [mss 1460,sackOK,TS val 608571 ecr 0,nop,wscale 5], length 0
+20:33:34.868691 IP shane-VirtualBox.53312 > www.xjtu.edu.cn.www: Flags [S], seq 3941161488, win 5840, options [mss 1460,sackOK,TS val 608571 ecr 0,nop,wscale 5], length 0
+20:33:34.938430 IP www.xjtu.edu.cn.www > shane-VirtualBox.53308: Flags [S.], seq 91584001, ack 1128446661, win 65535, options [mss 1460], length 0
+20:33:34.938461 IP shane-VirtualBox.53308 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:34.938861 IP shane-VirtualBox.53308 > www.xjtu.edu.cn.www: Flags [P.], seq 1:271, ack 1, win 5840, length 270
+20:33:34.939285 IP www.xjtu.edu.cn.www > shane-VirtualBox.53308: Flags [.], ack 271, win 65535, length 0
+20:33:34.943485 IP www.xjtu.edu.cn.www > shane-VirtualBox.53312: Flags [S.], seq 91648001, ack 3941161489, win 65535, options [mss 1460], length 0
+20:33:34.943506 IP shane-VirtualBox.53312 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:34.943541 IP www.xjtu.edu.cn.www > shane-VirtualBox.53311: Flags [S.], seq 91712001, ack 3634723683, win 65535, options [mss 1460], length 0
+20:33:34.943547 IP shane-VirtualBox.53311 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:34.943594 IP www.xjtu.edu.cn.www > shane-VirtualBox.53310: Flags [S.], seq 91776001, ack 2934874898, win 65535, options [mss 1460], length 0
+20:33:34.943605 IP shane-VirtualBox.53310 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:34.943628 IP www.xjtu.edu.cn.www > shane-VirtualBox.53309: Flags [S.], seq 91840001, ack 85027627, win 65535, options [mss 1460], length 0
+20:33:34.943633 IP shane-VirtualBox.53309 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:34.943651 IP www.xjtu.edu.cn.www > shane-VirtualBox.53307: Flags [S.], seq 91904001, ack 312259678, win 65535, options [mss 1460], length 0
+20:33:34.943656 IP shane-VirtualBox.53307 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:34.944369 IP shane-VirtualBox.53307 > www.xjtu.edu.cn.www: Flags [P.], seq 1:295, ack 1, win 5840, length 294
+20:33:34.944461 IP shane-VirtualBox.53309 > www.xjtu.edu.cn.www: Flags [P.], seq 1:288, ack 1, win 5840, length 287
+20:33:34.944534 IP shane-VirtualBox.53310 > www.xjtu.edu.cn.www: Flags [P.], seq 1:279, ack 1, win 5840, length 278
+20:33:34.944610 IP shane-VirtualBox.53311 > www.xjtu.edu.cn.www: Flags [P.], seq 1:279, ack 1, win 5840, length 278
+20:33:34.944683 IP shane-VirtualBox.53312 > www.xjtu.edu.cn.www: Flags [P.], seq 1:278, ack 1, win 5840, length 277
+20:33:34.945251 IP www.xjtu.edu.cn.www > shane-VirtualBox.53307: Flags [.], ack 295, win 65535, length 0
+20:33:34.945264 IP www.xjtu.edu.cn.www > shane-VirtualBox.53309: Flags [.], ack 288, win 65535, length 0
+20:33:34.945356 IP www.xjtu.edu.cn.www > shane-VirtualBox.53310: Flags [.], ack 279, win 65535, length 0
+20:33:34.945360 IP www.xjtu.edu.cn.www > shane-VirtualBox.53311: Flags [.], ack 279, win 65535, length 0
+20:33:34.945362 IP www.xjtu.edu.cn.www > shane-VirtualBox.53312: Flags [.], ack 278, win 65535, length 0
+20:33:34.996677 IP www.xjtu.edu.cn.www > shane-VirtualBox.53308: Flags [P.], seq 1:389, ack 271, win 65535, length 388
+20:33:34.996738 IP shane-VirtualBox.53308 > www.xjtu.edu.cn.www: Flags [.], ack 389, win 6432, length 0
+20:33:34.996884 IP www.xjtu.edu.cn.www > shane-VirtualBox.53308: Flags [F.], seq 389, ack 271, win 65535, length 0
+20:33:34.996892 IP www.xjtu.edu.cn.www > shane-VirtualBox.53307: Flags [.], seq 1:1421, ack 295, win 65535, length 1420
+20:33:34.996898 IP shane-VirtualBox.53307 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:34.996924 IP www.xjtu.edu.cn.www > shane-VirtualBox.53307: Flags [.], seq 1421:2841, ack 295, win 65535, length 1420
+20:33:34.996928 IP shane-VirtualBox.53307 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:34.997284 IP www.xjtu.edu.cn.www > shane-VirtualBox.53307: Flags [.], seq 2841:4261, ack 295, win 65535, length 1420
+20:33:34.997294 IP shane-VirtualBox.53307 > www.xjtu.edu.cn.www: Flags [.], ack 4261, win 14200, length 0
+20:33:34.997316 IP www.xjtu.edu.cn.www > shane-VirtualBox.53307: Flags [.], seq 4261:5681, ack 295, win 65535, length 1420
+20:33:34.997320 IP shane-VirtualBox.53307 > www.xjtu.edu.cn.www: Flags [.], ack 5681, win 17040, length 0
+20:33:34.997432 IP www.xjtu.edu.cn.www > shane-VirtualBox.53307: Flags [.], seq 5681:7101, ack 295, win 65535, length 1420
+20:33:34.997437 IP shane-VirtualBox.53307 > www.xjtu.edu.cn.www: Flags [.], ack 7101, win 19880, length 0
+20:33:34.997455 IP www.xjtu.edu.cn.www > shane-VirtualBox.53307: Flags [FP.], seq 7101:8472, ack 295, win 65535, length 1371
+20:33:34.997548 IP www.xjtu.edu.cn.www > shane-VirtualBox.53310: Flags [P.], seq 1:1203, ack 279, win 65535, length 1202
+20:33:34.997553 IP shane-VirtualBox.53310 > www.xjtu.edu.cn.www: Flags [.], ack 1203, win 7212, length 0
+20:33:34.997572 IP www.xjtu.edu.cn.www > shane-VirtualBox.53309: Flags [P.], seq 1:406, ack 288, win 65535, length 405
+20:33:34.997576 IP shane-VirtualBox.53309 > www.xjtu.edu.cn.www: Flags [.], ack 406, win 6432, length 0
+20:33:34.997705 IP www.xjtu.edu.cn.www > shane-VirtualBox.53309: Flags [F.], seq 406, ack 288, win 65535, length 0
+20:33:34.997710 IP www.xjtu.edu.cn.www > shane-VirtualBox.53310: Flags [F.], seq 1203, ack 279, win 65535, length 0
+20:33:34.997813 IP shane-VirtualBox.53307 > www.xjtu.edu.cn.www: Flags [F.], seq 295, ack 8473, win 22720, length 0
+20:33:34.997976 IP shane-VirtualBox.53308 > www.xjtu.edu.cn.www: Flags [F.], seq 271, ack 390, win 6432, length 0
+20:33:34.998109 IP shane-VirtualBox.53309 > www.xjtu.edu.cn.www: Flags [F.], seq 288, ack 407, win 6432, length 0
+20:33:34.998184 IP shane-VirtualBox.53310 > www.xjtu.edu.cn.www: Flags [F.], seq 279, ack 1204, win 7212, length 0
+20:33:34.998312 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [S], seq 1409071087, win 5840, options [mss 1460,sackOK,TS val 608603 ecr 0,nop,wscale 5], length 0
+20:33:34.998401 IP shane-VirtualBox.53314 > www.xjtu.edu.cn.www: Flags [S], seq 2829061291, win 5840, options [mss 1460,sackOK,TS val 608603 ecr 0,nop,wscale 5], length 0
+20:33:34.998487 IP shane-VirtualBox.53315 > www.xjtu.edu.cn.www: Flags [S], seq 2823389238, win 5840, options [mss 1460,sackOK,TS val 608603 ecr 0,nop,wscale 5], length 0
+20:33:34.998572 IP shane-VirtualBox.53316 > www.xjtu.edu.cn.www: Flags [S], seq 2878495037, win 5840, options [mss 1460,sackOK,TS val 608603 ecr 0,nop,wscale 5], length 0
+20:33:34.999217 IP www.xjtu.edu.cn.www > shane-VirtualBox.53307: Flags [.], ack 296, win 65535, length 0
+20:33:34.999236 IP www.xjtu.edu.cn.www > shane-VirtualBox.53308: Flags [.], ack 272, win 65535, length 0
+20:33:34.999332 IP www.xjtu.edu.cn.www > shane-VirtualBox.53309: Flags [.], ack 289, win 65535, length 0
+20:33:34.999338 IP www.xjtu.edu.cn.www > shane-VirtualBox.53310: Flags [.], ack 280, win 65535, length 0
+20:33:35.023882 IP www.xjtu.edu.cn.www > shane-VirtualBox.53311: Flags [P.], seq 1:1229, ack 279, win 65535, length 1228
+20:33:35.023901 IP shane-VirtualBox.53311 > www.xjtu.edu.cn.www: Flags [.], ack 1229, win 7368, length 0
+20:33:35.023936 IP www.xjtu.edu.cn.www > shane-VirtualBox.53311: Flags [F.], seq 1229, ack 279, win 65535, length 0
+20:33:35.023943 IP www.xjtu.edu.cn.www > shane-VirtualBox.53312: Flags [P.], seq 1:954, ack 278, win 65535, length 953
+20:33:35.023947 IP shane-VirtualBox.53312 > www.xjtu.edu.cn.www: Flags [.], ack 954, win 7624, length 0
+20:33:35.023967 IP www.xjtu.edu.cn.www > shane-VirtualBox.53312: Flags [F.], seq 954, ack 278, win 65535, length 0
+20:33:35.024401 IP shane-VirtualBox.53311 > www.xjtu.edu.cn.www: Flags [F.], seq 279, ack 1230, win 7368, length 0
+20:33:35.024496 IP shane-VirtualBox.53312 > www.xjtu.edu.cn.www: Flags [F.], seq 278, ack 955, win 7624, length 0
+20:33:35.024633 IP shane-VirtualBox.53317 > www.xjtu.edu.cn.www: Flags [S], seq 342896448, win 5840, options [mss 1460,sackOK,TS val 608610 ecr 0,nop,wscale 5], length 0
+20:33:35.024744 IP shane-VirtualBox.53318 > www.xjtu.edu.cn.www: Flags [S], seq 1226909045, win 5840, options [mss 1460,sackOK,TS val 608610 ecr 0,nop,wscale 5], length 0
+20:33:35.025819 IP www.xjtu.edu.cn.www > shane-VirtualBox.53311: Flags [.], ack 280, win 65535, length 0
+20:33:35.025846 IP www.xjtu.edu.cn.www > shane-VirtualBox.53312: Flags [.], ack 279, win 65535, length 0
+20:33:35.034806 IP www.xjtu.edu.cn.www > shane-VirtualBox.53314: Flags [S.], seq 92032001, ack 2829061292, win 65535, options [mss 1460], length 0
+20:33:35.034831 IP shane-VirtualBox.53314 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.034864 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [S.], seq 92096001, ack 1409071088, win 65535, options [mss 1460], length 0
+20:33:35.034870 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.035026 IP www.xjtu.edu.cn.www > shane-VirtualBox.53316: Flags [S.], seq 92160001, ack 2878495038, win 65535, options [mss 1460], length 0
+20:33:35.035044 IP shane-VirtualBox.53316 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.035158 IP www.xjtu.edu.cn.www > shane-VirtualBox.53315: Flags [S.], seq 92224001, ack 2823389239, win 65535, options [mss 1460], length 0
+20:33:35.035165 IP shane-VirtualBox.53315 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.035386 IP shane-VirtualBox.53315 > www.xjtu.edu.cn.www: Flags [P.], seq 1:277, ack 1, win 5840, length 276
+20:33:35.035488 IP shane-VirtualBox.53316 > www.xjtu.edu.cn.www: Flags [P.], seq 1:273, ack 1, win 5840, length 272
+20:33:35.035591 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [P.], seq 1:279, ack 1, win 5840, length 278
+20:33:35.035668 IP shane-VirtualBox.53314 > www.xjtu.edu.cn.www: Flags [P.], seq 1:272, ack 1, win 5840, length 271
+20:33:35.036047 IP www.xjtu.edu.cn.www > shane-VirtualBox.53315: Flags [.], ack 277, win 65535, length 0
+20:33:35.036056 IP www.xjtu.edu.cn.www > shane-VirtualBox.53316: Flags [.], ack 273, win 65535, length 0
+20:33:35.036105 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], ack 279, win 65535, length 0
+20:33:35.036109 IP www.xjtu.edu.cn.www > shane-VirtualBox.53314: Flags [.], ack 272, win 65535, length 0
+20:33:35.037700 IP www.xjtu.edu.cn.www > shane-VirtualBox.53317: Flags [S.], seq 92288001, ack 342896449, win 65535, options [mss 1460], length 0
+20:33:35.037718 IP shane-VirtualBox.53317 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.037745 IP www.xjtu.edu.cn.www > shane-VirtualBox.53318: Flags [S.], seq 92352001, ack 1226909046, win 65535, options [mss 1460], length 0
+20:33:35.037751 IP shane-VirtualBox.53318 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.037967 IP shane-VirtualBox.53317 > www.xjtu.edu.cn.www: Flags [P.], seq 1:274, ack 1, win 5840, length 273
+20:33:35.038061 IP shane-VirtualBox.53318 > www.xjtu.edu.cn.www: Flags [P.], seq 1:274, ack 1, win 5840, length 273
+20:33:35.038313 IP www.xjtu.edu.cn.www > shane-VirtualBox.53317: Flags [.], ack 274, win 65535, length 0
+20:33:35.038373 IP www.xjtu.edu.cn.www > shane-VirtualBox.53318: Flags [.], ack 274, win 65535, length 0
+20:33:35.046951 IP www.xjtu.edu.cn.www > shane-VirtualBox.53316: Flags [P.], seq 1:1160, ack 273, win 65535, length 1159
+20:33:35.046985 IP shane-VirtualBox.53316 > www.xjtu.edu.cn.www: Flags [.], ack 1160, win 8113, length 0
+20:33:35.047159 IP www.xjtu.edu.cn.www > shane-VirtualBox.53315: Flags [P.], seq 1:1133, ack 277, win 65535, length 1132
+20:33:35.047166 IP shane-VirtualBox.53315 > www.xjtu.edu.cn.www: Flags [.], ack 1133, win 7924, length 0
+20:33:35.047191 IP www.xjtu.edu.cn.www > shane-VirtualBox.53315: Flags [F.], seq 1133, ack 277, win 65535, length 0
+20:33:35.047198 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], seq 1:1421, ack 279, win 65535, length 1420
+20:33:35.047202 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.047220 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], seq 1421:2841, ack 279, win 65535, length 1420
+20:33:35.047225 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.047243 IP www.xjtu.edu.cn.www > shane-VirtualBox.53316: Flags [F.], seq 1160, ack 273, win 65535, length 0
+20:33:35.047416 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], seq 2841:4261, ack 279, win 65535, length 1420
+20:33:35.047423 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 4261, win 14200, length 0
+20:33:35.047442 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [P.], seq 4261:4381, ack 279, win 65535, length 120
+20:33:35.047446 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 4381, win 14200, length 0
+20:33:35.047581 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], seq 4381:5801, ack 279, win 65535, length 1420
+20:33:35.047586 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 5801, win 17040, length 0
+20:33:35.047605 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], seq 5801:7221, ack 279, win 65535, length 1420
+20:33:35.047610 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 7221, win 19880, length 0
+20:33:35.047627 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], seq 7221:8641, ack 279, win 65535, length 1420
+20:33:35.047631 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 8641, win 22720, length 0
+20:33:35.047750 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [P.], seq 8641:8761, ack 279, win 65535, length 120
+20:33:35.048166 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 8761, win 22720, length 0
+20:33:35.048301 IP shane-VirtualBox.53315 > www.xjtu.edu.cn.www: Flags [F.], seq 277, ack 1134, win 7924, length 0
+20:33:35.048394 IP shane-VirtualBox.53316 > www.xjtu.edu.cn.www: Flags [F.], seq 273, ack 1161, win 8113, length 0
+20:33:35.048591 IP www.xjtu.edu.cn.www > shane-VirtualBox.53315: Flags [.], ack 278, win 65535, length 0
+20:33:35.048628 IP shane-VirtualBox.53319 > www.xjtu.edu.cn.www: Flags [S], seq 269220028, win 5840, options [mss 1460,sackOK,TS val 608616 ecr 0,nop,wscale 5], length 0
+20:33:35.048683 IP www.xjtu.edu.cn.www > shane-VirtualBox.53316: Flags [.], ack 274, win 65535, length 0
+20:33:35.048741 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [S], seq 261001969, win 5840, options [mss 1460,sackOK,TS val 608616 ecr 0,nop,wscale 5], length 0
+20:33:35.048828 IP shane-VirtualBox.53321 > www.xjtu.edu.cn.www: Flags [S], seq 2584802092, win 5840, options [mss 1460,sackOK,TS val 608616 ecr 0,nop,wscale 5], length 0
+20:33:35.058512 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], seq 8761:10181, ack 279, win 65535, length 1420
+20:33:35.058529 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 10181, win 25560, length 0
+20:33:35.059202 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], seq 10181:11601, ack 279, win 65535, length 1420
+20:33:35.059212 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 11601, win 28400, length 0
+20:33:35.059238 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], seq 11601:13021, ack 279, win 65535, length 1420
+20:33:35.059242 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 13021, win 31240, length 0
+20:33:35.059260 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [P.], seq 13021:13454, ack 279, win 65535, length 433
+20:33:35.059264 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [.], ack 13454, win 34080, length 0
+20:33:35.059281 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [F.], seq 13454, ack 279, win 65535, length 0
+20:33:35.059287 IP www.xjtu.edu.cn.www > shane-VirtualBox.53314: Flags [.], seq 1:1421, ack 272, win 65535, length 1420
+20:33:35.059291 IP shane-VirtualBox.53314 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.059309 IP www.xjtu.edu.cn.www > shane-VirtualBox.53314: Flags [P.], seq 1421:2638, ack 272, win 65535, length 1217
+20:33:35.059313 IP shane-VirtualBox.53314 > www.xjtu.edu.cn.www: Flags [.], ack 2638, win 11360, length 0
+20:33:35.059330 IP www.xjtu.edu.cn.www > shane-VirtualBox.53314: Flags [F.], seq 2638, ack 272, win 65535, length 0
+20:33:35.059556 IP shane-VirtualBox.53313 > www.xjtu.edu.cn.www: Flags [F.], seq 279, ack 13455, win 34080, length 0
+20:33:35.059669 IP shane-VirtualBox.53314 > www.xjtu.edu.cn.www: Flags [F.], seq 272, ack 2639, win 11360, length 0
+20:33:35.059809 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [S], seq 3887471127, win 5840, options [mss 1460,sackOK,TS val 608619 ecr 0,nop,wscale 5], length 0
+20:33:35.060188 IP www.xjtu.edu.cn.www > shane-VirtualBox.53313: Flags [.], ack 280, win 65535, length 0
+20:33:35.060203 IP www.xjtu.edu.cn.www > shane-VirtualBox.53314: Flags [.], ack 273, win 65535, length 0
+20:33:35.064628 IP www.xjtu.edu.cn.www > shane-VirtualBox.53317: Flags [.], seq 1:1421, ack 274, win 65535, length 1420
+20:33:35.064662 IP shane-VirtualBox.53317 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.064814 IP www.xjtu.edu.cn.www > shane-VirtualBox.53317: Flags [P.], seq 1421:2769, ack 274, win 65535, length 1348
+20:33:35.064821 IP shane-VirtualBox.53317 > www.xjtu.edu.cn.www: Flags [.], ack 2769, win 11360, length 0
+20:33:35.064846 IP www.xjtu.edu.cn.www > shane-VirtualBox.53317: Flags [F.], seq 2769, ack 274, win 65535, length 0
+20:33:35.064853 IP www.xjtu.edu.cn.www > shane-VirtualBox.53318: Flags [.], seq 1:1421, ack 274, win 65535, length 1420
+20:33:35.064857 IP shane-VirtualBox.53318 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.064876 IP www.xjtu.edu.cn.www > shane-VirtualBox.53318: Flags [P.], seq 1421:1461, ack 274, win 65535, length 40
+20:33:35.064880 IP shane-VirtualBox.53318 > www.xjtu.edu.cn.www: Flags [.], ack 1461, win 8520, length 0
+20:33:35.065383 IP shane-VirtualBox.53317 > www.xjtu.edu.cn.www: Flags [F.], seq 274, ack 2770, win 11360, length 0
+20:33:35.065541 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [S], seq 3185278957, win 5840, options [mss 1460,sackOK,TS val 608620 ecr 0,nop,wscale 5], length 0
+20:33:35.065636 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [S], seq 2410941023, win 5840, options [mss 1460,sackOK,TS val 608620 ecr 0,nop,wscale 5], length 0
+20:33:35.066114 IP www.xjtu.edu.cn.www > shane-VirtualBox.53317: Flags [.], ack 275, win 65535, length 0
+20:33:35.068032 IP www.xjtu.edu.cn.www > shane-VirtualBox.53318: Flags [P.], seq 1461:1626, ack 274, win 65535, length 165
+20:33:35.068055 IP shane-VirtualBox.53318 > www.xjtu.edu.cn.www: Flags [.], ack 1626, win 11360, length 0
+20:33:35.068301 IP www.xjtu.edu.cn.www > shane-VirtualBox.53318: Flags [F.], seq 1626, ack 274, win 65535, length 0
+20:33:35.068310 IP www.xjtu.edu.cn.www > shane-VirtualBox.53321: Flags [S.], seq 92416001, ack 2584802093, win 65535, options [mss 1460], length 0
+20:33:35.068321 IP shane-VirtualBox.53321 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.068470 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [S.], seq 92480001, ack 261001970, win 65535, options [mss 1460], length 0
+20:33:35.068482 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.068522 IP www.xjtu.edu.cn.www > shane-VirtualBox.53319: Flags [S.], seq 92544001, ack 269220029, win 65535, options [mss 1460], length 0
+20:33:35.068530 IP shane-VirtualBox.53319 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.068554 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [S.], seq 92608001, ack 3887471128, win 65535, options [mss 1460], length 0
+20:33:35.068560 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.068911 IP shane-VirtualBox.53318 > www.xjtu.edu.cn.www: Flags [F.], seq 274, ack 1627, win 11360, length 0
+20:33:35.069018 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [P.], seq 1:327, ack 1, win 5840, length 326
+20:33:35.069090 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [P.], seq 1:306, ack 1, win 5840, length 305
+20:33:35.069165 IP shane-VirtualBox.53321 > www.xjtu.edu.cn.www: Flags [P.], seq 1:304, ack 1, win 5840, length 303
+20:33:35.069232 IP shane-VirtualBox.53319 > www.xjtu.edu.cn.www: Flags [P.], seq 1:288, ack 1, win 5840, length 287
+20:33:35.069771 IP www.xjtu.edu.cn.www > shane-VirtualBox.53318: Flags [.], ack 275, win 65535, length 0
+20:33:35.069784 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], ack 327, win 65535, length 0
+20:33:35.069883 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], ack 306, win 65535, length 0
+20:33:35.069888 IP www.xjtu.edu.cn.www > shane-VirtualBox.53321: Flags [.], ack 304, win 65535, length 0
+20:33:35.069890 IP www.xjtu.edu.cn.www > shane-VirtualBox.53319: Flags [.], ack 288, win 65535, length 0
+20:33:35.084062 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [S.], seq 92672001, ack 3185278958, win 65535, options [mss 1460], length 0
+20:33:35.084087 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.084121 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 1:1421, ack 327, win 65535, length 1420
+20:33:35.084127 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.084146 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 1421:2841, ack 327, win 65535, length 1420
+20:33:35.084150 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.084168 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], seq 1:1421, ack 306, win 65535, length 1420
+20:33:35.084172 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.084189 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [P.], seq 1421:1461, ack 306, win 65535, length 40
+20:33:35.084194 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 1461, win 8520, length 0
+20:33:35.084211 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [S.], seq 92736001, ack 2410941024, win 65535, options [mss 1460], length 0
+20:33:35.084217 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.084487 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], seq 1461:2881, ack 306, win 65535, length 1420
+20:33:35.084493 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 2881, win 11360, length 0
+20:33:35.084513 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [P.], seq 2841:2921, ack 327, win 65535, length 80
+20:33:35.084517 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 2921, win 11360, length 0
+20:33:35.084852 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [P.], seq 1:327, ack 1, win 5840, length 326
+20:33:35.084933 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [P.], seq 1:327, ack 1, win 5840, length 326
+20:33:35.085672 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [P.], seq 2881:2921, ack 306, win 65535, length 40
+20:33:35.085685 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], seq 2921:4341, ack 306, win 65535, length 1420
+20:33:35.085691 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 4341, win 14200, length 0
+20:33:35.085771 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], seq 4341:5761, ack 306, win 65535, length 1420
+20:33:35.085776 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 5761, win 17040, length 0
+20:33:35.085831 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], seq 5761:7181, ack 306, win 65535, length 1420
+20:33:35.085838 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 7181, win 19880, length 0
+20:33:35.085892 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [P.], seq 7181:7301, ack 306, win 65535, length 120
+20:33:35.085913 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], ack 327, win 65535, length 0
+20:33:35.085918 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], ack 327, win 65535, length 0
+20:33:35.086041 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 7301, win 19880, length 0
+20:33:35.086497 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], seq 7301:8721, ack 306, win 65535, length 1420
+20:33:35.086508 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 8721, win 22720, length 0
+20:33:35.086533 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], seq 8721:10141, ack 306, win 65535, length 1420
+20:33:35.086538 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 10141, win 25560, length 0
+20:33:35.086556 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], seq 10141:11561, ack 306, win 65535, length 1420
+20:33:35.086560 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 11561, win 28400, length 0
+20:33:35.086578 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], seq 11561:12981, ack 306, win 65535, length 1420
+20:33:35.086581 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 12981, win 31240, length 0
+20:33:35.086599 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], seq 12981:14401, ack 306, win 65535, length 1420
+20:33:35.086604 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 14401, win 34080, length 0
+20:33:35.086620 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [P.], seq 14401:14876, ack 306, win 65535, length 475
+20:33:35.086624 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [.], ack 14876, win 36920, length 0
+20:33:35.086641 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [F.], seq 14876, ack 306, win 65535, length 0
+20:33:35.086646 IP www.xjtu.edu.cn.www > shane-VirtualBox.53321: Flags [.], seq 1:1421, ack 304, win 65535, length 1420
+20:33:35.086649 IP shane-VirtualBox.53321 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.086667 IP www.xjtu.edu.cn.www > shane-VirtualBox.53321: Flags [.], seq 1421:2841, ack 304, win 65535, length 1420
+20:33:35.086670 IP shane-VirtualBox.53321 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.086788 IP www.xjtu.edu.cn.www > shane-VirtualBox.53321: Flags [.], seq 2841:4261, ack 304, win 65535, length 1420
+20:33:35.086794 IP shane-VirtualBox.53321 > www.xjtu.edu.cn.www: Flags [.], ack 4261, win 14200, length 0
+20:33:35.086812 IP www.xjtu.edu.cn.www > shane-VirtualBox.53321: Flags [P.], seq 4261:4381, ack 304, win 65535, length 120
+20:33:35.086816 IP shane-VirtualBox.53321 > www.xjtu.edu.cn.www: Flags [.], ack 4381, win 14200, length 0
+20:33:35.087171 IP shane-VirtualBox.53320 > www.xjtu.edu.cn.www: Flags [F.], seq 306, ack 14877, win 36920, length 0
+20:33:35.087334 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [S], seq 2309279436, win 5840, options [mss 1460,sackOK,TS val 608625 ecr 0,nop,wscale 5], length 0
+20:33:35.087409 IP www.xjtu.edu.cn.www > shane-VirtualBox.53320: Flags [.], ack 307, win 65535, length 0
+20:33:35.087475 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [S], seq 2938443032, win 5840, options [mss 1460,sackOK,TS val 608625 ecr 0,nop,wscale 5], length 0
+20:33:35.087609 IP shane-VirtualBox.53327 > www.xjtu.edu.cn.www: Flags [S], seq 2406551112, win 5840, options [mss 1460,sackOK,TS val 608626 ecr 0,nop,wscale 5], length 0
+20:33:35.089687 IP www.xjtu.edu.cn.www > shane-VirtualBox.53321: Flags [P.], seq 4381:5170, ack 304, win 65535, length 789
+20:33:35.089703 IP shane-VirtualBox.53321 > www.xjtu.edu.cn.www: Flags [.], ack 5170, win 17040, length 0
+20:33:35.089793 IP www.xjtu.edu.cn.www > shane-VirtualBox.53321: Flags [F.], seq 5170, ack 304, win 65535, length 0
+20:33:35.089800 IP www.xjtu.edu.cn.www > shane-VirtualBox.53319: Flags [P.], seq 1:406, ack 288, win 65535, length 405
+20:33:35.089805 IP shane-VirtualBox.53319 > www.xjtu.edu.cn.www: Flags [.], ack 406, win 6432, length 0
+20:33:35.089829 IP www.xjtu.edu.cn.www > shane-VirtualBox.53319: Flags [F.], seq 406, ack 288, win 65535, length 0
+20:33:35.090067 IP shane-VirtualBox.53321 > www.xjtu.edu.cn.www: Flags [F.], seq 304, ack 5171, win 17040, length 0
+20:33:35.090169 IP shane-VirtualBox.53319 > www.xjtu.edu.cn.www: Flags [F.], seq 288, ack 407, win 6432, length 0
+20:33:35.090290 IP shane-VirtualBox.53328 > www.xjtu.edu.cn.www: Flags [S], seq 325929839, win 5840, options [mss 1460,sackOK,TS val 608626 ecr 0,nop,wscale 5], length 0
+20:33:35.090695 IP www.xjtu.edu.cn.www > shane-VirtualBox.53321: Flags [.], ack 305, win 65535, length 0
+20:33:35.090708 IP www.xjtu.edu.cn.www > shane-VirtualBox.53319: Flags [.], ack 289, win 65535, length 0
+20:33:35.091941 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 2921:4341, ack 327, win 65535, length 1420
+20:33:35.091960 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 4341, win 14200, length 0
+20:33:35.091991 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 4341:5761, ack 327, win 65535, length 1420
+20:33:35.091995 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 5761, win 17040, length 0
+20:33:35.092128 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 5761:7181, ack 327, win 65535, length 1420
+20:33:35.092136 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 7181, win 19880, length 0
+20:33:35.092155 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [P.], seq 7181:7301, ack 327, win 65535, length 120
+20:33:35.092160 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 1:1421, ack 327, win 65535, length 1420
+20:33:35.092163 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.092181 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 1421:2841, ack 327, win 65535, length 1420
+20:33:35.092185 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.092325 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 7301, win 19880, length 0
+20:33:35.094360 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 1:1421, ack 327, win 65535, length 1420
+20:33:35.094379 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.094408 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [P.], seq 1421:1461, ack 327, win 65535, length 40
+20:33:35.094412 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 1461, win 8520, length 0
+20:33:35.094430 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [P.], seq 2841:2921, ack 327, win 65535, length 80
+20:33:35.094434 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 2921, win 11360, length 0
+20:33:35.107433 IP shane-VirtualBox.53329 > www.xjtu.edu.cn.www: Flags [S], seq 953449121, win 5840, options [mss 1460,sackOK,TS val 608630 ecr 0,nop,wscale 5], length 0
+20:33:35.118431 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 1461:2881, ack 327, win 65535, length 1420
+20:33:35.118482 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 2881, win 11360, length 0
+20:33:35.118545 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 2881:4301, ack 327, win 65535, length 1420
+20:33:35.118567 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 4301, win 14200, length 0
+20:33:35.118608 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 4301:5721, ack 327, win 65535, length 1420
+20:33:35.118628 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 5721, win 17040, length 0
+20:33:35.118786 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [P.], seq 5721:5841, ack 327, win 65535, length 120
+20:33:35.118802 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 5841:7261, ack 327, win 65535, length 1420
+20:33:35.118815 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 7261, win 19880, length 0
+20:33:35.118859 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 7261:8681, ack 327, win 65535, length 1420
+20:33:35.118872 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 8681, win 22720, length 0
+20:33:35.118991 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 8681:10101, ack 327, win 65535, length 1420
+20:33:35.119002 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 10101, win 25560, length 0
+20:33:35.119029 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 10101:11521, ack 327, win 65535, length 1420
+20:33:35.119040 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 11521, win 28400, length 0
+20:33:35.119152 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 11521:12941, ack 327, win 65535, length 1420
+20:33:35.119162 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 12941, win 31240, length 0
+20:33:35.119194 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [P.], seq 12941:13141, ack 327, win 65535, length 200
+20:33:35.119203 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 13141, win 34080, length 0
+20:33:35.121165 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 13141:14561, ack 327, win 65535, length 1420
+20:33:35.121179 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 14561, win 36920, length 0
+20:33:35.121301 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 14561:15981, ack 327, win 65535, length 1420
+20:33:35.121306 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 15981, win 39760, length 0
+20:33:35.121325 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 15981:17401, ack 327, win 65535, length 1420
+20:33:35.121329 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 17401, win 42600, length 0
+20:33:35.121448 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 17401:18821, ack 327, win 65535, length 1420
+20:33:35.121455 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 18821, win 45440, length 0
+20:33:35.121475 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 18821:20241, ack 327, win 65535, length 1420
+20:33:35.121478 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 20241, win 48280, length 0
+20:33:35.121597 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 20241:21661, ack 327, win 65535, length 1420
+20:33:35.121602 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 21661, win 51120, length 0
+20:33:35.121623 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [P.], seq 21661:21901, ack 327, win 65535, length 240
+20:33:35.121626 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 21901, win 53960, length 0
+20:33:35.123927 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 21901:23321, ack 327, win 65535, length 1420
+20:33:35.123938 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 23321, win 58220, length 0
+20:33:35.123990 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 23321:24741, ack 327, win 65535, length 1420
+20:33:35.123996 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 24741, win 61060, length 0
+20:33:35.124015 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 24741:26161, ack 327, win 65535, length 1420
+20:33:35.124019 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 26161, win 61060, length 0
+20:33:35.124039 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 26161:27581, ack 327, win 65535, length 1420
+20:33:35.124043 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [P.], seq 27581:27741, ack 327, win 65535, length 160
+20:33:35.124096 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 27741, win 63900, length 0
+20:33:35.126995 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], seq 27741:29161, ack 327, win 65535, length 1420
+20:33:35.127052 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [P.], seq 29161:29439, ack 327, win 65535, length 278
+20:33:35.127097 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [F.], seq 29439, ack 327, win 65535, length 0
+20:33:35.127105 IP www.xjtu.edu.cn.www > shane-VirtualBox.53327: Flags [S.], seq 92800001, ack 2406551113, win 65535, options [mss 1460], length 0
+20:33:35.127118 IP shane-VirtualBox.53327 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.127177 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [S.], seq 92864001, ack 2938443033, win 65535, options [mss 1460], length 0
+20:33:35.127220 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.127353 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [S.], seq 92928001, ack 2309279437, win 65535, options [mss 1460], length 0
+20:33:35.127363 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.127421 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 7301:8721, ack 327, win 65535, length 1420
+20:33:35.127428 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 8721, win 22720, length 0
+20:33:35.127451 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [P.], seq 8721:8761, ack 327, win 65535, length 40
+20:33:35.127456 IP www.xjtu.edu.cn.www > shane-VirtualBox.53328: Flags [S.], seq 92992001, ack 325929840, win 65535, options [mss 1460], length 0
+20:33:35.127462 IP shane-VirtualBox.53328 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.127561 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 8761, win 22720, length 0
+20:33:35.127655 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [.], ack 29440, win 63900, length 0
+20:33:35.127851 IP shane-VirtualBox.53323 > www.xjtu.edu.cn.www: Flags [F.], seq 327, ack 29440, win 63900, length 0
+20:33:35.127947 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [P.], seq 1:327, ack 1, win 5840, length 326
+20:33:35.128020 IP shane-VirtualBox.53327 > www.xjtu.edu.cn.www: Flags [P.], seq 1:305, ack 1, win 5840, length 304
+20:33:35.128086 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [P.], seq 1:327, ack 1, win 5840, length 326
+20:33:35.128152 IP shane-VirtualBox.53328 > www.xjtu.edu.cn.www: Flags [P.], seq 1:306, ack 1, win 5840, length 305
+20:33:35.128282 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [S], seq 3318151908, win 5840, options [mss 1460,sackOK,TS val 608636 ecr 0,nop,wscale 5], length 0
+20:33:35.128833 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 2921:4341, ack 327, win 65535, length 1420
+20:33:35.128845 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 4341, win 14200, length 0
+20:33:35.128869 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 4341:5761, ack 327, win 65535, length 1420
+20:33:35.128874 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 5761, win 17040, length 0
+20:33:35.128892 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 5761:7181, ack 327, win 65535, length 1420
+20:33:35.128897 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 7181, win 19880, length 0
+20:33:35.128914 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [P.], seq 7181:7301, ack 327, win 65535, length 120
+20:33:35.128918 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 8761:10181, ack 327, win 65535, length 1420
+20:33:35.128921 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 10181, win 25560, length 0
+20:33:35.128939 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 10181:11601, ack 327, win 65535, length 1420
+20:33:35.128943 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 11601, win 28400, length 0
+20:33:35.128960 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 11601:13021, ack 327, win 65535, length 1420
+20:33:35.128964 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 13021, win 31240, length 0
+20:33:35.128981 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [P.], seq 13021:13141, ack 327, win 65535, length 120
+20:33:35.128985 IP www.xjtu.edu.cn.www > shane-VirtualBox.53329: Flags [S.], seq 93056001, ack 953449122, win 65535, options [mss 1460], length 0
+20:33:35.128990 IP shane-VirtualBox.53329 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.129009 IP www.xjtu.edu.cn.www > shane-VirtualBox.53323: Flags [.], ack 328, win 65535, length 0
+20:33:35.129017 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], ack 327, win 65535, length 0
+20:33:35.129020 IP www.xjtu.edu.cn.www > shane-VirtualBox.53327: Flags [.], ack 305, win 65535, length 0
+20:33:35.129022 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], ack 327, win 65535, length 0
+20:33:35.129024 IP www.xjtu.edu.cn.www > shane-VirtualBox.53328: Flags [.], ack 306, win 65535, length 0
+20:33:35.129205 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 13141, win 31240, length 0
+20:33:35.129284 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 7301, win 19880, length 0
+20:33:35.129405 IP shane-VirtualBox.53329 > www.xjtu.edu.cn.www: Flags [P.], seq 1:308, ack 1, win 5840, length 307
+20:33:35.129734 IP www.xjtu.edu.cn.www > shane-VirtualBox.53329: Flags [.], ack 308, win 65535, length 0
+20:33:35.139619 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 13141:14561, ack 327, win 65535, length 1420
+20:33:35.139634 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 14561, win 34080, length 0
+20:33:35.139663 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [P.], seq 14561:14601, ack 327, win 65535, length 40
+20:33:35.139800 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 14601, win 34080, length 0
+20:33:35.142772 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 7301:8721, ack 327, win 65535, length 1420
+20:33:35.142788 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 8721, win 22720, length 0
+20:33:35.142850 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 8721:10141, ack 327, win 65535, length 1420
+20:33:35.142866 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 10141, win 25560, length 0
+20:33:35.142896 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 10141:11561, ack 327, win 65535, length 1420
+20:33:35.142901 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 11561, win 28400, length 0
+20:33:35.142992 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 11561:12981, ack 327, win 65535, length 1420
+20:33:35.142998 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 12981, win 31240, length 0
+20:33:35.143017 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [P.], seq 12981:13141, ack 327, win 65535, length 160
+20:33:35.143021 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 13141, win 34080, length 0
+20:33:35.143038 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 14601:16021, ack 327, win 65535, length 1420
+20:33:35.143043 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 16021, win 36920, length 0
+20:33:35.143060 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 16021:17441, ack 327, win 65535, length 1420
+20:33:35.143064 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 17441, win 39760, length 0
+20:33:35.143081 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 17441:18861, ack 327, win 65535, length 1420
+20:33:35.143084 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 18861, win 42600, length 0
+20:33:35.143101 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 18861:20281, ack 327, win 65535, length 1420
+20:33:35.143105 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 20281, win 45440, length 0
+20:33:35.143122 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [P.], seq 20281:20441, ack 327, win 65535, length 160
+20:33:35.143126 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 20441, win 48280, length 0
+20:33:35.146115 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 1:1421, ack 327, win 65535, length 1420
+20:33:35.146134 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.146191 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 1421:2841, ack 327, win 65535, length 1420
+20:33:35.146196 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.146276 IP www.xjtu.edu.cn.www > shane-VirtualBox.53327: Flags [.], seq 1:1421, ack 305, win 65535, length 1420
+20:33:35.146281 IP shane-VirtualBox.53327 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.146350 IP www.xjtu.edu.cn.www > shane-VirtualBox.53327: Flags [P.], seq 1421:1569, ack 305, win 65535, length 148
+20:33:35.146354 IP shane-VirtualBox.53327 > www.xjtu.edu.cn.www: Flags [.], ack 1569, win 11360, length 0
+20:33:35.146372 IP www.xjtu.edu.cn.www > shane-VirtualBox.53327: Flags [F.], seq 1569, ack 305, win 65535, length 0
+20:33:35.146378 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 2841:2921, ack 327, win 65535, length 80
+20:33:35.146381 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 2921, win 11360, length 0
+20:33:35.146756 IP shane-VirtualBox.53327 > www.xjtu.edu.cn.www: Flags [F.], seq 305, ack 1570, win 11360, length 0
+20:33:35.146916 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [S], seq 3195879358, win 5840, options [mss 1460,sackOK,TS val 608640 ecr 0,nop,wscale 5], length 0
+20:33:35.147009 IP shane-VirtualBox.53332 > www.xjtu.edu.cn.www: Flags [S], seq 4141730891, win 5840, options [mss 1460,sackOK,TS val 608640 ecr 0,nop,wscale 5], length 0
+20:33:35.147465 IP www.xjtu.edu.cn.www > shane-VirtualBox.53327: Flags [.], ack 306, win 65535, length 0
+20:33:35.148813 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 1:1421, ack 327, win 65535, length 1420
+20:33:35.148830 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.148890 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 1421:2841, ack 327, win 65535, length 1420
+20:33:35.148926 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.148964 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [S.], seq 93120001, ack 3318151909, win 65535, options [mss 1460], length 0
+20:33:35.148975 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.149005 IP www.xjtu.edu.cn.www > shane-VirtualBox.53328: Flags [.], seq 1:1421, ack 306, win 65535, length 1420
+20:33:35.149029 IP shane-VirtualBox.53328 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.149215 IP www.xjtu.edu.cn.www > shane-VirtualBox.53328: Flags [.], seq 1421:2841, ack 306, win 65535, length 1420
+20:33:35.149222 IP shane-VirtualBox.53328 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.149246 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [P.], seq 2841:2921, ack 327, win 65535, length 80
+20:33:35.149251 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 2921, win 11360, length 0
+20:33:35.149269 IP www.xjtu.edu.cn.www > shane-VirtualBox.53328: Flags [.], seq 2841:4261, ack 306, win 65535, length 1420
+20:33:35.149274 IP shane-VirtualBox.53328 > www.xjtu.edu.cn.www: Flags [.], ack 4261, win 14200, length 0
+20:33:35.149291 IP www.xjtu.edu.cn.www > shane-VirtualBox.53328: Flags [.], seq 4261:5681, ack 306, win 65535, length 1420
+20:33:35.149295 IP shane-VirtualBox.53328 > www.xjtu.edu.cn.www: Flags [.], ack 5681, win 17040, length 0
+20:33:35.149543 IP www.xjtu.edu.cn.www > shane-VirtualBox.53329: Flags [P.], seq 1:537, ack 308, win 65535, length 536
+20:33:35.149549 IP shane-VirtualBox.53329 > www.xjtu.edu.cn.www: Flags [.], ack 537, win 6432, length 0
+20:33:35.149571 IP www.xjtu.edu.cn.www > shane-VirtualBox.53329: Flags [F.], seq 537, ack 308, win 65535, length 0
+20:33:35.149576 IP www.xjtu.edu.cn.www > shane-VirtualBox.53328: Flags [FP.], seq 5681:6786, ack 306, win 65535, length 1105
+20:33:35.149954 IP shane-VirtualBox.53329 > www.xjtu.edu.cn.www: Flags [F.], seq 308, ack 538, win 6432, length 0
+20:33:35.150077 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [P.], seq 1:306, ack 1, win 5840, length 305
+20:33:35.150155 IP shane-VirtualBox.53328 > www.xjtu.edu.cn.www: Flags [F.], seq 306, ack 6787, win 19880, length 0
+20:33:35.150276 IP shane-VirtualBox.53333 > www.xjtu.edu.cn.www: Flags [S], seq 3151292413, win 5840, options [mss 1460,sackOK,TS val 608641 ecr 0,nop,wscale 5], length 0
+20:33:35.150488 IP www.xjtu.edu.cn.www > shane-VirtualBox.53329: Flags [.], ack 309, win 65535, length 0
+20:33:35.150501 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [.], ack 306, win 65535, length 0
+20:33:35.150504 IP www.xjtu.edu.cn.www > shane-VirtualBox.53328: Flags [.], ack 307, win 65535, length 0
+20:33:35.151683 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 20441:21861, ack 327, win 65535, length 1420
+20:33:35.151697 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 21861, win 51120, length 0
+20:33:35.151723 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 21861:23281, ack 327, win 65535, length 1420
+20:33:35.151727 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 23281, win 55380, length 0
+20:33:35.151855 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 23281:24701, ack 327, win 65535, length 1420
+20:33:35.151861 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 24701, win 58220, length 0
+20:33:35.151880 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 24701:26121, ack 327, win 65535, length 1420
+20:33:35.151883 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 26121, win 59640, length 0
+20:33:35.152001 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 26121:27541, ack 327, win 65535, length 1420
+20:33:35.152016 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 27541:28961, ack 327, win 65535, length 1420
+20:33:35.152018 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [P.], seq 28961:29201, ack 327, win 65535, length 240
+20:33:35.152065 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 29201, win 61060, length 0
+20:33:35.156237 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 13141:14561, ack 327, win 65535, length 1420
+20:33:35.156251 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 14561, win 36920, length 0
+20:33:35.156278 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 14561:15981, ack 327, win 65535, length 1420
+20:33:35.156282 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 15981, win 39760, length 0
+20:33:35.156400 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 15981:17401, ack 327, win 65535, length 1420
+20:33:35.156404 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 17401, win 42600, length 0
+20:33:35.156424 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 17401:18821, ack 327, win 65535, length 1420
+20:33:35.156428 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 18821, win 45440, length 0
+20:33:35.156551 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 18821:20241, ack 327, win 65535, length 1420
+20:33:35.156559 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 20241, win 48280, length 0
+20:33:35.156578 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [P.], seq 20241:20441, ack 327, win 65535, length 200
+20:33:35.156582 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 20441, win 51120, length 0
+20:33:35.177479 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 2921:4341, ack 327, win 65535, length 1420
+20:33:35.177499 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 4341, win 14200, length 0
+20:33:35.177529 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 4341:5761, ack 327, win 65535, length 1420
+20:33:35.177541 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 5761, win 17040, length 0
+20:33:35.177560 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 5761:7181, ack 327, win 65535, length 1420
+20:33:35.177565 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 7181, win 19880, length 0
+20:33:35.177583 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 7181:7301, ack 327, win 65535, length 120
+20:33:35.177587 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 2921:4341, ack 327, win 65535, length 1420
+20:33:35.177590 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 4341, win 14200, length 0
+20:33:35.177609 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 4341:5761, ack 327, win 65535, length 1420
+20:33:35.177612 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 5761, win 17040, length 0
+20:33:35.177724 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [P.], seq 5761:5841, ack 327, win 65535, length 80
+20:33:35.177894 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 7301, win 19880, length 0
+20:33:35.177970 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 5841, win 17040, length 0
+20:33:35.180006 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 5841:7261, ack 327, win 65535, length 1420
+20:33:35.180021 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 7261, win 19880, length 0
+20:33:35.180142 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [P.], seq 7261:7301, ack 327, win 65535, length 40
+20:33:35.180148 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 29201:30621, ack 327, win 65535, length 1420
+20:33:35.180152 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 30621, win 63900, length 0
+20:33:35.180175 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [P.], seq 30621:30661, ack 327, win 65535, length 40
+20:33:35.180179 IP www.xjtu.edu.cn.www > shane-VirtualBox.53332: Flags [S.], seq 93184001, ack 4141730892, win 65535, options [mss 1460], length 0
+20:33:35.180186 IP shane-VirtualBox.53332 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.180205 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [S.], seq 93248001, ack 3195879359, win 65535, options [mss 1460], length 0
+20:33:35.180210 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.180353 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 30661, win 63900, length 0
+20:33:35.180454 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 7301, win 19880, length 0
+20:33:35.180546 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [P.], seq 1:306, ack 1, win 5840, length 305
+20:33:35.180621 IP shane-VirtualBox.53332 > www.xjtu.edu.cn.www: Flags [P.], seq 1:308, ack 1, win 5840, length 307
+20:33:35.180898 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [.], ack 306, win 65535, length 0
+20:33:35.180906 IP www.xjtu.edu.cn.www > shane-VirtualBox.53332: Flags [.], ack 308, win 65535, length 0
+20:33:35.182532 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [.], seq 1:1421, ack 306, win 65535, length 1420
+20:33:35.182545 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.182712 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [P.], seq 1421:1461, ack 306, win 65535, length 40
+20:33:35.182719 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [.], ack 1461, win 8520, length 0
+20:33:35.182741 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 20441:21861, ack 327, win 65535, length 1420
+20:33:35.182748 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 21861, win 53960, length 0
+20:33:35.182766 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 21861:23281, ack 327, win 65535, length 1420
+20:33:35.182769 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 23281, win 58220, length 0
+20:33:35.182787 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 23281:24701, ack 327, win 65535, length 1420
+20:33:35.182791 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 24701, win 61060, length 0
+20:33:35.182810 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [P.], seq 24701:24821, ack 327, win 65535, length 120
+20:33:35.182814 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 30661:32081, ack 327, win 65535, length 1420
+20:33:35.182817 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 32081:33501, ack 327, win 65535, length 1420
+20:33:35.182819 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 33501:34921, ack 327, win 65535, length 1420
+20:33:35.182821 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [P.], seq 34921:35041, ack 327, win 65535, length 120
+20:33:35.182823 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [.], seq 1461:2881, ack 306, win 65535, length 1420
+20:33:35.182826 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [.], ack 2881, win 11360, length 0
+20:33:35.182944 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [P.], seq 2881:2921, ack 306, win 65535, length 40
+20:33:35.183124 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 35041, win 63900, length 0
+20:33:35.183215 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 24821, win 61060, length 0
+20:33:35.183300 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [.], ack 2921, win 11360, length 0
+20:33:35.191358 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 24821:26241, ack 327, win 65535, length 1420
+20:33:35.191376 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 26241, win 63900, length 0
+20:33:35.191405 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 26241:27661, ack 327, win 65535, length 1420
+20:33:35.191486 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 27661:29081, ack 327, win 65535, length 1420
+20:33:35.191491 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [P.], seq 29081:29201, ack 327, win 65535, length 120
+20:33:35.191695 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 29201, win 63900, length 0
+20:33:35.191753 IP www.xjtu.edu.cn.www > shane-VirtualBox.53333: Flags [S.], seq 93312001, ack 3151292414, win 65535, options [mss 1460], length 0
+20:33:35.191762 IP shane-VirtualBox.53333 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.191855 IP shane-VirtualBox.53333 > www.xjtu.edu.cn.www: Flags [P.], seq 1:306, ack 1, win 5840, length 305
+20:33:35.192157 IP www.xjtu.edu.cn.www > shane-VirtualBox.53333: Flags [.], ack 306, win 65535, length 0
+20:33:35.195784 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [.], seq 2921:4341, ack 306, win 65535, length 1420
+20:33:35.195799 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [.], ack 4341, win 14200, length 0
+20:33:35.195827 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [.], seq 4341:5761, ack 306, win 65535, length 1420
+20:33:35.195831 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [.], ack 5761, win 17040, length 0
+20:33:35.195849 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [P.], seq 5761:6235, ack 306, win 65535, length 474
+20:33:35.195853 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [.], ack 6235, win 19880, length 0
+20:33:35.195872 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [F.], seq 6235, ack 306, win 65535, length 0
+20:33:35.195878 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 7301:8721, ack 327, win 65535, length 1420
+20:33:35.195882 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 8721, win 22720, length 0
+20:33:35.195900 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 8721:8761, ack 327, win 65535, length 40
+20:33:35.195904 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], seq 35041:36461, ack 327, win 65535, length 1420
+20:33:35.195906 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [P.], seq 36461:37517, ack 327, win 65535, length 1056
+20:33:35.195909 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [F.], seq 37517, ack 327, win 65535, length 0
+20:33:35.196158 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [.], ack 37518, win 63900, length 0
+20:33:35.196255 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 8761, win 22720, length 0
+20:33:35.196350 IP shane-VirtualBox.53322 > www.xjtu.edu.cn.www: Flags [F.], seq 327, ack 37518, win 63900, length 0
+20:33:35.196438 IP shane-VirtualBox.53330 > www.xjtu.edu.cn.www: Flags [F.], seq 306, ack 6236, win 19880, length 0
+20:33:35.196628 IP www.xjtu.edu.cn.www > shane-VirtualBox.53322: Flags [.], ack 328, win 65535, length 0
+20:33:35.196740 IP www.xjtu.edu.cn.www > shane-VirtualBox.53330: Flags [.], ack 307, win 65535, length 0
+20:33:35.198091 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 8761:10181, ack 327, win 65535, length 1420
+20:33:35.198099 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 10181, win 25560, length 0
+20:33:35.198121 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 10181:11601, ack 327, win 65535, length 1420
+20:33:35.198124 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 11601, win 28400, length 0
+20:33:35.198244 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 11601:13021, ack 327, win 65535, length 1420
+20:33:35.198250 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 13021, win 31240, length 0
+20:33:35.198270 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 13021:13141, ack 327, win 65535, length 120
+20:33:35.198355 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 13141, win 31240, length 0
+20:33:35.209036 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 7301:8721, ack 327, win 65535, length 1420
+20:33:35.209057 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 8721, win 22720, length 0
+20:33:35.209092 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [P.], seq 8721:8761, ack 327, win 65535, length 40
+20:33:35.209262 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 8761, win 22720, length 0
+20:33:35.212218 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 8761:10181, ack 327, win 65535, length 1420
+20:33:35.212227 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 10181, win 25560, length 0
+20:33:35.212347 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 10181:11601, ack 327, win 65535, length 1420
+20:33:35.212352 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 11601, win 28400, length 0
+20:33:35.212372 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [P.], seq 11601:11681, ack 327, win 65535, length 80
+20:33:35.212582 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 11681, win 28400, length 0
+20:33:35.215409 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [.], seq 1:1421, ack 306, win 65535, length 1420
+20:33:35.215445 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.215636 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [.], seq 1421:2841, ack 306, win 65535, length 1420
+20:33:35.215643 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.215668 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [.], seq 2841:4261, ack 306, win 65535, length 1420
+20:33:35.215674 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [.], ack 4261, win 14200, length 0
+20:33:35.215692 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [P.], seq 4261:4381, ack 306, win 65535, length 120
+20:33:35.215696 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [.], ack 4381, win 14200, length 0
+20:33:35.225562 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [.], seq 4381:5801, ack 306, win 65535, length 1420
+20:33:35.225612 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [.], ack 5801, win 17040, length 0
+20:33:35.225728 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [.], seq 5801:7221, ack 306, win 65535, length 1420
+20:33:35.225735 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [.], ack 7221, win 19880, length 0
+20:33:35.225757 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [P.], seq 7221:8510, ack 306, win 65535, length 1289
+20:33:35.225762 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [.], ack 8510, win 22720, length 0
+20:33:35.225780 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [F.], seq 8510, ack 306, win 65535, length 0
+20:33:35.225786 IP www.xjtu.edu.cn.www > shane-VirtualBox.53332: Flags [.], seq 1:1421, ack 308, win 65535, length 1420
+20:33:35.225789 IP shane-VirtualBox.53332 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.225807 IP www.xjtu.edu.cn.www > shane-VirtualBox.53332: Flags [.], seq 1421:2841, ack 308, win 65535, length 1420
+20:33:35.225811 IP shane-VirtualBox.53332 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.226177 IP shane-VirtualBox.53331 > www.xjtu.edu.cn.www: Flags [F.], seq 306, ack 8511, win 22720, length 0
+20:33:35.226516 IP www.xjtu.edu.cn.www > shane-VirtualBox.53332: Flags [.], seq 2841:4261, ack 308, win 65535, length 1420
+20:33:35.226527 IP shane-VirtualBox.53332 > www.xjtu.edu.cn.www: Flags [.], ack 4261, win 14200, length 0
+20:33:35.226600 IP www.xjtu.edu.cn.www > shane-VirtualBox.53332: Flags [FP.], seq 4261:4971, ack 308, win 65535, length 710
+20:33:35.226607 IP www.xjtu.edu.cn.www > shane-VirtualBox.53331: Flags [.], ack 307, win 65535, length 0
+20:33:35.226743 IP shane-VirtualBox.53332 > www.xjtu.edu.cn.www: Flags [F.], seq 308, ack 4972, win 17040, length 0
+20:33:35.227051 IP www.xjtu.edu.cn.www > shane-VirtualBox.53332: Flags [.], ack 309, win 65535, length 0
+20:33:35.240066 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 29201:30621, ack 327, win 65535, length 1420
+20:33:35.240084 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [P.], seq 30621:30661, ack 327, win 65535, length 40
+20:33:35.240091 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 30661, win 63900, length 0
+20:33:35.249578 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 30661:32081, ack 327, win 65535, length 1420
+20:33:35.249595 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 32081:33501, ack 327, win 65535, length 1420
+20:33:35.249599 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 33501:34921, ack 327, win 65535, length 1420
+20:33:35.249604 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [P.], seq 34921:35041, ack 327, win 65535, length 120
+20:33:35.250075 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 35041, win 63900, length 0
+20:33:35.258544 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 35041:36461, ack 327, win 65535, length 1420
+20:33:35.258559 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 36461:37881, ack 327, win 65535, length 1420
+20:33:35.258642 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 37881:39301, ack 327, win 65535, length 1420
+20:33:35.258647 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 39301:40721, ack 327, win 65535, length 1420
+20:33:35.258738 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 40721:42141, ack 327, win 65535, length 1420
+20:33:35.258744 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 42141:43561, ack 327, win 65535, length 1420
+20:33:35.258924 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [P.], seq 43561:43801, ack 327, win 65535, length 240
+20:33:35.258985 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 43801, win 55380, length 0
+20:33:35.279422 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 43801:45221, ack 327, win 65535, length 1420
+20:33:35.279442 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 45221:46641, ack 327, win 65535, length 1420
+20:33:35.279449 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 46641, win 62480, length 0
+20:33:35.279482 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 46641:48061, ack 327, win 65535, length 1420
+20:33:35.279486 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], seq 48061:49481, ack 327, win 65535, length 1420
+20:33:35.279489 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [P.], seq 49481:50290, ack 327, win 65535, length 809
+20:33:35.279491 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [F.], seq 50290, ack 327, win 65535, length 0
+20:33:35.279497 IP www.xjtu.edu.cn.www > shane-VirtualBox.53333: Flags [P.], seq 1:503, ack 306, win 65535, length 502
+20:33:35.279500 IP shane-VirtualBox.53333 > www.xjtu.edu.cn.www: Flags [.], ack 503, win 6432, length 0
+20:33:35.279520 IP www.xjtu.edu.cn.www > shane-VirtualBox.53333: Flags [F.], seq 503, ack 306, win 65535, length 0
+20:33:35.279524 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 13141:14561, ack 327, win 65535, length 1420
+20:33:35.279528 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 14561, win 34080, length 0
+20:33:35.279545 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 14561:14601, ack 327, win 65535, length 40
+20:33:35.279549 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 14601:16021, ack 327, win 65535, length 1420
+20:33:35.279552 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 16021, win 36920, length 0
+20:33:35.279570 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 16021:17441, ack 327, win 65535, length 1420
+20:33:35.279574 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 17441, win 39760, length 0
+20:33:35.279591 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 17441:18861, ack 327, win 65535, length 1420
+20:33:35.279611 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 18861, win 42600, length 0
+20:33:35.279630 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 18861:20281, ack 327, win 65535, length 1420
+20:33:35.279634 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 20281, win 45440, length 0
+20:33:35.279655 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 20281:20441, ack 327, win 65535, length 160
+20:33:35.279659 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 20441, win 48280, length 0
+20:33:35.279678 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 11681:13101, ack 327, win 65535, length 1420
+20:33:35.279683 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 13101, win 31240, length 0
+20:33:35.279718 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [P.], seq 13101:13141, ack 327, win 65535, length 40
+20:33:35.280284 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [.], ack 50291, win 63900, length 0
+20:33:35.280380 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 13141, win 31240, length 0
+20:33:35.280470 IP shane-VirtualBox.53333 > www.xjtu.edu.cn.www: Flags [F.], seq 306, ack 504, win 6432, length 0
+20:33:35.280556 IP shane-VirtualBox.53324 > www.xjtu.edu.cn.www: Flags [F.], seq 327, ack 50291, win 63900, length 0
+20:33:35.281546 IP www.xjtu.edu.cn.www > shane-VirtualBox.53333: Flags [.], ack 307, win 65535, length 0
+20:33:35.282124 IP www.xjtu.edu.cn.www > shane-VirtualBox.53324: Flags [.], ack 328, win 65535, length 0
+20:33:35.282138 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 13141:14561, ack 327, win 65535, length 1420
+20:33:35.282146 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 14561, win 34080, length 0
+20:33:35.282221 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 14561:15981, ack 327, win 65535, length 1420
+20:33:35.282225 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 15981, win 36920, length 0
+20:33:35.282275 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 15981:17401, ack 327, win 65535, length 1420
+20:33:35.282281 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 17401, win 39760, length 0
+20:33:35.282330 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 17401:18821, ack 327, win 65535, length 1420
+20:33:35.282335 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 18821, win 42600, length 0
+20:33:35.282365 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 18821:20241, ack 327, win 65535, length 1420
+20:33:35.282372 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 20241, win 45440, length 0
+20:33:35.282395 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [P.], seq 20241:20441, ack 327, win 65535, length 200
+20:33:35.282399 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 20441, win 48280, length 0
+20:33:35.285417 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 20441:21861, ack 327, win 65535, length 1420
+20:33:35.285438 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 21861, win 51120, length 0
+20:33:35.285508 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 21861:23281, ack 327, win 65535, length 1420
+20:33:35.285514 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 23281, win 55380, length 0
+20:33:35.285555 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 23281:24701, ack 327, win 65535, length 1420
+20:33:35.285563 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 24701, win 58220, length 0
+20:33:35.285590 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 24701:26121, ack 327, win 65535, length 1420
+20:33:35.285594 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 26121, win 59640, length 0
+20:33:35.285613 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 26121:27541, ack 327, win 65535, length 1420
+20:33:35.285618 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 27541:28961, ack 327, win 65535, length 1420
+20:33:35.285620 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 28961:29201, ack 327, win 65535, length 240
+20:33:35.285707 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 29201, win 61060, length 0
+20:33:35.292459 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 29201:30621, ack 327, win 65535, length 1420
+20:33:35.292513 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 30621, win 63900, length 0
+20:33:35.292580 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 30621:30661, ack 327, win 65535, length 40
+20:33:35.292584 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 20441:21861, ack 327, win 65535, length 1420
+20:33:35.292588 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 21861, win 51120, length 0
+20:33:35.292609 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 21861:23281, ack 327, win 65535, length 1420
+20:33:35.292612 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 23281, win 55380, length 0
+20:33:35.292630 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 23281:24701, ack 327, win 65535, length 1420
+20:33:35.292634 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 24701, win 58220, length 0
+20:33:35.292652 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 24701:26121, ack 327, win 65535, length 1420
+20:33:35.292655 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 26121, win 59640, length 0
+20:33:35.292672 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 26121:27541, ack 327, win 65535, length 1420
+20:33:35.292678 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 27541:28961, ack 327, win 65535, length 1420
+20:33:35.292680 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [P.], seq 28961:29201, ack 327, win 65535, length 240
+20:33:35.292833 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 29201, win 61060, length 0
+20:33:35.293005 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 30661, win 63900, length 0
+20:33:35.296124 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 30661:32081, ack 327, win 65535, length 1420
+20:33:35.296135 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 32081:33501, ack 327, win 65535, length 1420
+20:33:35.296138 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 33501:34921, ack 327, win 65535, length 1420
+20:33:35.296232 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 34921:36341, ack 327, win 65535, length 1420
+20:33:35.296237 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 36341:36501, ack 327, win 65535, length 160
+20:33:35.296345 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 36501, win 61060, length 0
+20:33:35.303188 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 36501:37921, ack 327, win 65535, length 1420
+20:33:35.303206 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 37921:37961, ack 327, win 65535, length 40
+20:33:35.303213 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 37961, win 63900, length 0
+20:33:35.303553 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 29201:30621, ack 327, win 65535, length 1420
+20:33:35.303563 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 30621, win 63900, length 0
+20:33:35.303587 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 30621:32041, ack 327, win 65535, length 1420
+20:33:35.303592 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 32041:33461, ack 327, win 65535, length 1420
+20:33:35.303594 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 33461:34881, ack 327, win 65535, length 1420
+20:33:35.303597 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 34881:36301, ack 327, win 65535, length 1420
+20:33:35.303599 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 36301:37721, ack 327, win 65535, length 1420
+20:33:35.303601 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [P.], seq 37721:37961, ack 327, win 65535, length 240
+20:33:35.303603 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 37961:39381, ack 327, win 65535, length 1420
+20:33:35.303606 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 39381:40801, ack 327, win 65535, length 1420
+20:33:35.303608 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 40801:42221, ack 327, win 65535, length 1420
+20:33:35.303699 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 42221:43641, ack 327, win 65535, length 1420
+20:33:35.303704 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 43641:45061, ack 327, win 65535, length 1420
+20:33:35.303706 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 45061:46481, ack 327, win 65535, length 1420
+20:33:35.303797 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 46481:46721, ack 327, win 65535, length 240
+20:33:35.303802 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 37961:39381, ack 327, win 65535, length 1420
+20:33:35.303804 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], seq 39381:40801, ack 327, win 65535, length 1420
+20:33:35.303892 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [P.], seq 40801:41820, ack 327, win 65535, length 1019
+20:33:35.303898 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [F.], seq 41820, ack 327, win 65535, length 0
+20:33:35.304068 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [.], ack 41821, win 53960, length 0
+20:33:35.304441 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 46721, win 63900, length 0
+20:33:35.304540 IP shane-VirtualBox.53325 > www.xjtu.edu.cn.www: Flags [F.], seq 327, ack 41821, win 63900, length 0
+20:33:35.304938 IP www.xjtu.edu.cn.www > shane-VirtualBox.53325: Flags [.], ack 328, win 65535, length 0
+20:33:35.311418 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 46721:48141, ack 327, win 65535, length 1420
+20:33:35.311432 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 48141:49561, ack 327, win 65535, length 1420
+20:33:35.311435 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 49561:50981, ack 327, win 65535, length 1420
+20:33:35.311438 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 50981:52401, ack 327, win 65535, length 1420
+20:33:35.311440 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 52401:53821, ack 327, win 65535, length 1420
+20:33:35.311518 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 53821:55241, ack 327, win 65535, length 1420
+20:33:35.311522 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 55241:55481, ack 327, win 65535, length 240
+20:33:35.311715 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 55481, win 63900, length 0
+20:33:35.328290 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 55481:56901, ack 327, win 65535, length 1420
+20:33:35.328307 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 56901:58321, ack 327, win 65535, length 1420
+20:33:35.328310 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 58321:59741, ack 327, win 65535, length 1420
+20:33:35.328313 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 59741:61161, ack 327, win 65535, length 1420
+20:33:35.328315 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 61161:62581, ack 327, win 65535, length 1420
+20:33:35.328318 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 62581:64001, ack 327, win 65535, length 1420
+20:33:35.328320 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 64001:64241, ack 327, win 65535, length 240
+20:33:35.328322 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 64241:65661, ack 327, win 65535, length 1420
+20:33:35.328325 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 65661:67081, ack 327, win 65535, length 1420
+20:33:35.328327 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 67081:68501, ack 327, win 65535, length 1420
+20:33:35.328331 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 68501:68621, ack 327, win 65535, length 120
+20:33:35.328460 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], seq 68621:70041, ack 327, win 65535, length 1420
+20:33:35.328465 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [P.], seq 70041:70667, ack 327, win 65535, length 626
+20:33:35.328588 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [.], ack 70667, win 59640, length 0
+20:33:35.328652 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [F.], seq 70667, ack 327, win 65535, length 0
+20:33:35.328738 IP shane-VirtualBox.53326 > www.xjtu.edu.cn.www: Flags [F.], seq 327, ack 70668, win 63900, length 0
+20:33:35.329092 IP www.xjtu.edu.cn.www > shane-VirtualBox.53326: Flags [.], ack 328, win 65535, length 0
+20:33:35.629624 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [S], seq 1604514404, win 5840, options [mss 1460,sackOK,TS val 608761 ecr 0,nop,wscale 5], length 0
+20:33:35.630186 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [S], seq 3623925791, win 5840, options [mss 1460,sackOK,TS val 608761 ecr 0,nop,wscale 5], length 0
+20:33:35.630809 IP shane-VirtualBox.53336 > www.xjtu.edu.cn.www: Flags [S], seq 4258184766, win 5840, options [mss 1460,sackOK,TS val 608761 ecr 0,nop,wscale 5], length 0
+20:33:35.631296 IP shane-VirtualBox.53337 > www.xjtu.edu.cn.www: Flags [S], seq 1570833645, win 5840, options [mss 1460,sackOK,TS val 608761 ecr 0,nop,wscale 5], length 0
+20:33:35.636559 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [S.], seq 93440001, ack 1604514405, win 65535, options [mss 1460], length 0
+20:33:35.636607 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.636672 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [S.], seq 93504001, ack 3623925792, win 65535, options [mss 1460], length 0
+20:33:35.636682 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.637016 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [P.], seq 1:329, ack 1, win 5840, length 328
+20:33:35.637185 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [P.], seq 1:333, ack 1, win 5840, length 332
+20:33:35.637745 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [.], ack 329, win 65535, length 0
+20:33:35.637759 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], ack 333, win 65535, length 0
+20:33:35.643933 IP www.xjtu.edu.cn.www > shane-VirtualBox.53337: Flags [S.], seq 93568001, ack 1570833646, win 65535, options [mss 1460], length 0
+20:33:35.643970 IP shane-VirtualBox.53337 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.644030 IP www.xjtu.edu.cn.www > shane-VirtualBox.53336: Flags [S.], seq 93632001, ack 4258184767, win 65535, options [mss 1460], length 0
+20:33:35.644041 IP shane-VirtualBox.53336 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.644404 IP shane-VirtualBox.53336 > www.xjtu.edu.cn.www: Flags [P.], seq 1:328, ack 1, win 5840, length 327
+20:33:35.644588 IP shane-VirtualBox.53337 > www.xjtu.edu.cn.www: Flags [P.], seq 1:328, ack 1, win 5840, length 327
+20:33:35.644944 IP www.xjtu.edu.cn.www > shane-VirtualBox.53336: Flags [.], ack 328, win 65535, length 0
+20:33:35.645112 IP www.xjtu.edu.cn.www > shane-VirtualBox.53337: Flags [.], ack 328, win 65535, length 0
+20:33:35.668348 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [.], seq 1:1421, ack 329, win 65535, length 1420
+20:33:35.668376 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.668443 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [.], seq 1421:2841, ack 329, win 65535, length 1420
+20:33:35.668452 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.668513 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [.], seq 2841:4261, ack 329, win 65535, length 1420
+20:33:35.668521 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [.], ack 4261, win 14200, length 0
+20:33:35.668574 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [.], seq 4261:5681, ack 329, win 65535, length 1420
+20:33:35.668579 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [.], ack 5681, win 17040, length 0
+20:33:35.668731 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [.], seq 5681:7101, ack 329, win 65535, length 1420
+20:33:35.668737 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [.], ack 7101, win 19880, length 0
+20:33:35.668763 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [P.], seq 7101:7301, ack 329, win 65535, length 200
+20:33:35.668767 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [.], ack 7301, win 22720, length 0
+20:33:35.674773 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], seq 1:1421, ack 333, win 65535, length 1420
+20:33:35.674793 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.674832 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], seq 1421:2841, ack 333, win 65535, length 1420
+20:33:35.674837 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.674969 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [.], seq 7301:8721, ack 329, win 65535, length 1420
+20:33:35.674975 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [.], ack 8721, win 25560, length 0
+20:33:35.674998 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [P.], seq 8721:9913, ack 329, win 65535, length 1192
+20:33:35.675003 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [.], ack 9913, win 28400, length 0
+20:33:35.675140 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [F.], seq 9913, ack 329, win 65535, length 0
+20:33:35.675148 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], seq 2841:4261, ack 333, win 65535, length 1420
+20:33:35.675153 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 4261, win 14200, length 0
+20:33:35.675276 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], seq 4261:5681, ack 333, win 65535, length 1420
+20:33:35.675281 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 5681, win 17040, length 0
+20:33:35.675304 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], seq 5681:7101, ack 333, win 65535, length 1420
+20:33:35.675310 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 7101, win 19880, length 0
+20:33:35.675497 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], seq 7101:8521, ack 333, win 65535, length 1420
+20:33:35.675504 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 8521, win 22720, length 0
+20:33:35.675529 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [P.], seq 8521:8761, ack 333, win 65535, length 240
+20:33:35.675549 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 8761, win 25560, length 0
+20:33:35.675853 IP shane-VirtualBox.53334 > www.xjtu.edu.cn.www: Flags [F.], seq 329, ack 9914, win 28400, length 0
+20:33:35.676178 IP www.xjtu.edu.cn.www > shane-VirtualBox.53334: Flags [.], ack 330, win 65535, length 0
+20:33:35.678178 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], seq 8761:10181, ack 333, win 65535, length 1420
+20:33:35.678190 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 10181, win 28400, length 0
+20:33:35.678221 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [P.], seq 10181:10221, ack 333, win 65535, length 40
+20:33:35.678226 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 10221, win 28400, length 0
+20:33:35.684254 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], seq 10221:11641, ack 333, win 65535, length 1420
+20:33:35.684275 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 11641, win 31240, length 0
+20:33:35.684373 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], seq 11641:13061, ack 333, win 65535, length 1420
+20:33:35.684379 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 13061, win 34080, length 0
+20:33:35.684453 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], seq 13061:14481, ack 333, win 65535, length 1420
+20:33:35.684459 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 14481, win 36920, length 0
+20:33:35.684650 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [P.], seq 14481:15646, ack 333, win 65535, length 1165
+20:33:35.684656 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [.], ack 15646, win 39760, length 0
+20:33:35.684698 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [F.], seq 15646, ack 333, win 65535, length 0
+20:33:35.684708 IP www.xjtu.edu.cn.www > shane-VirtualBox.53337: Flags [.], seq 1:1421, ack 328, win 65535, length 1420
+20:33:35.684713 IP shane-VirtualBox.53337 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.684744 IP www.xjtu.edu.cn.www > shane-VirtualBox.53337: Flags [.], seq 1421:2841, ack 328, win 65535, length 1420
+20:33:35.684749 IP shane-VirtualBox.53337 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.684773 IP www.xjtu.edu.cn.www > shane-VirtualBox.53336: Flags [P.], seq 1:582, ack 328, win 65535, length 581
+20:33:35.684777 IP shane-VirtualBox.53336 > www.xjtu.edu.cn.www: Flags [.], ack 582, win 6972, length 0
+20:33:35.684800 IP www.xjtu.edu.cn.www > shane-VirtualBox.53336: Flags [F.], seq 582, ack 328, win 65535, length 0
+20:33:35.684940 IP www.xjtu.edu.cn.www > shane-VirtualBox.53337: Flags [.], seq 2841:4261, ack 328, win 65535, length 1420
+20:33:35.684947 IP shane-VirtualBox.53337 > www.xjtu.edu.cn.www: Flags [.], ack 4261, win 14200, length 0
+20:33:35.684972 IP www.xjtu.edu.cn.www > shane-VirtualBox.53337: Flags [.], seq 4261:5681, ack 328, win 65535, length 1420
+20:33:35.684977 IP shane-VirtualBox.53337 > www.xjtu.edu.cn.www: Flags [.], ack 5681, win 17040, length 0
+20:33:35.685108 IP www.xjtu.edu.cn.www > shane-VirtualBox.53337: Flags [FP.], seq 5681:6249, ack 328, win 65535, length 568
+20:33:35.685707 IP shane-VirtualBox.53337 > www.xjtu.edu.cn.www: Flags [F.], seq 328, ack 6250, win 19880, length 0
+20:33:35.685828 IP shane-VirtualBox.53335 > www.xjtu.edu.cn.www: Flags [F.], seq 333, ack 15647, win 39760, length 0
+20:33:35.685921 IP shane-VirtualBox.53336 > www.xjtu.edu.cn.www: Flags [F.], seq 328, ack 583, win 6972, length 0
+20:33:35.686158 IP www.xjtu.edu.cn.www > shane-VirtualBox.53337: Flags [.], ack 329, win 65535, length 0
+20:33:35.686331 IP www.xjtu.edu.cn.www > shane-VirtualBox.53335: Flags [.], ack 334, win 65535, length 0
+20:33:35.686341 IP www.xjtu.edu.cn.www > shane-VirtualBox.53336: Flags [.], ack 329, win 65535, length 0
+20:33:35.758521 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [S], seq 813694037, win 5840, options [mss 1460,sackOK,TS val 608793 ecr 0,nop,wscale 5], length 0
+20:33:35.764559 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [S.], seq 93696001, ack 813694038, win 65535, options [mss 1460], length 0
+20:33:35.764581 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 1, win 5840, length 0
+20:33:35.764787 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [P.], seq 1:270, ack 1, win 5840, length 269
+20:33:35.766044 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], ack 270, win 65535, length 0
+20:33:35.777459 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 1:1421, ack 270, win 65535, length 1420
+20:33:35.777470 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 1421, win 8520, length 0
+20:33:35.777614 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 1421:2841, ack 270, win 65535, length 1420
+20:33:35.777620 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 2841, win 11360, length 0
+20:33:35.777640 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 2841:2921, ack 270, win 65535, length 80
+20:33:35.777644 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 2921, win 11360, length 0
+20:33:35.799752 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 2921:4341, ack 270, win 65535, length 1420
+20:33:35.799770 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 4341, win 14200, length 0
+20:33:35.799803 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 4341:4381, ack 270, win 65535, length 40
+20:33:35.799969 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 4381, win 14200, length 0
+20:33:35.810989 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 4381:5801, ack 270, win 65535, length 1420
+20:33:35.811009 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 5801, win 17040, length 0
+20:33:35.811043 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 5801:5841, ack 270, win 65535, length 40
+20:33:35.811354 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 5841:7261, ack 270, win 65535, length 1420
+20:33:35.811358 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 7261, win 19880, length 0
+20:33:35.811380 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 7261:7301, ack 270, win 65535, length 40
+20:33:35.811552 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 7301, win 19880, length 0
+20:33:35.815584 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 7301:8721, ack 270, win 65535, length 1420
+20:33:35.815602 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 8721, win 22720, length 0
+20:33:35.815639 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 8721:8761, ack 270, win 65535, length 40
+20:33:35.815786 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 8761, win 22720, length 0
+20:33:35.830270 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 8761:10181, ack 270, win 65535, length 1420
+20:33:35.830288 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 10181, win 25560, length 0
+20:33:35.830374 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 10181:11601, ack 270, win 65535, length 1420
+20:33:35.830379 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 11601, win 28400, length 0
+20:33:35.830464 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 11601:11681, ack 270, win 65535, length 80
+20:33:35.830627 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 11681, win 28400, length 0
+20:33:35.836116 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 11681:13101, ack 270, win 65535, length 1420
+20:33:35.836136 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 13101, win 31240, length 0
+20:33:35.836203 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 13101:14521, ack 270, win 65535, length 1420
+20:33:35.836211 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 14521, win 34080, length 0
+20:33:35.836234 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 14521:15941, ack 270, win 65535, length 1420
+20:33:35.836238 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 15941, win 36920, length 0
+20:33:35.836257 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 15941:16061, ack 270, win 65535, length 120
+20:33:35.836432 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 16061, win 36920, length 0
+20:33:35.838277 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 16061:17481, ack 270, win 65535, length 1420
+20:33:35.838298 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 17481, win 39760, length 0
+20:33:35.838360 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 17481:18901, ack 270, win 65535, length 1420
+20:33:35.838366 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 18901, win 42600, length 0
+20:33:35.838389 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 18901:18981, ack 270, win 65535, length 80
+20:33:35.838399 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 18981:20401, ack 270, win 65535, length 1420
+20:33:35.838402 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 20401, win 45440, length 0
+20:33:35.838642 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 20401:21821, ack 270, win 65535, length 1420
+20:33:35.838650 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 21821, win 48280, length 0
+20:33:35.838670 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 21821:21901, ack 270, win 65535, length 80
+20:33:35.838727 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 21901, win 48280, length 0
+20:33:35.840420 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 21901:23321, ack 270, win 65535, length 1420
+20:33:35.840437 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 23321, win 52540, length 0
+20:33:35.840570 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 23321:23361, ack 270, win 65535, length 40
+20:33:35.840890 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 23361, win 52540, length 0
+20:33:35.843117 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 23361:24781, ack 270, win 65535, length 1420
+20:33:35.843131 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 24781, win 55380, length 0
+20:33:35.843160 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 24781:26201, ack 270, win 65535, length 1420
+20:33:35.843165 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 26201, win 58220, length 0
+20:33:35.843190 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 26201:26281, ack 270, win 65535, length 80
+20:33:35.843316 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 26281, win 58220, length 0
+20:33:35.844020 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 26281:27701, ack 270, win 65535, length 1420
+20:33:35.844053 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 27701, win 61060, length 0
+20:33:35.844075 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 27701:27741, ack 270, win 65535, length 40
+20:33:35.844158 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 27741, win 61060, length 0
+20:33:35.847284 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 27741:29161, ack 270, win 65535, length 1420
+20:33:35.847302 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 29161, win 63900, length 0
+20:33:35.847338 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 29161:30581, ack 270, win 65535, length 1420
+20:33:35.847344 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 30581:32001, ack 270, win 65535, length 1420
+20:33:35.847347 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 32001:33421, ack 270, win 65535, length 1420
+20:33:35.847349 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 33421:34841, ack 270, win 65535, length 1420
+20:33:35.847353 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 34841:35041, ack 270, win 65535, length 200
+20:33:35.847843 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 35041, win 63900, length 0
+20:33:35.858758 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 35041:36461, ack 270, win 65535, length 1420
+20:33:35.858769 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 36461:37881, ack 270, win 65535, length 1420
+20:33:35.858772 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 37881:39301, ack 270, win 65535, length 1420
+20:33:35.858775 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 39301:40721, ack 270, win 65535, length 1420
+20:33:35.858777 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 40721:42141, ack 270, win 65535, length 1420
+20:33:35.858779 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 42141:43561, ack 270, win 65535, length 1420
+20:33:35.858781 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 43561:43801, ack 270, win 65535, length 240
+20:33:35.859028 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 43801, win 63900, length 0
+20:33:35.860585 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 43801:45221, ack 270, win 65535, length 1420
+20:33:35.860602 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 45221:46641, ack 270, win 65535, length 1420
+20:33:35.860605 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 46641:48061, ack 270, win 65535, length 1420
+20:33:35.860608 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 48061:49481, ack 270, win 65535, length 1420
+20:33:35.860610 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 49481:50901, ack 270, win 65535, length 1420
+20:33:35.860613 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 50901:52321, ack 270, win 65535, length 1420
+20:33:35.860615 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 52321:52561, ack 270, win 65535, length 240
+20:33:35.861004 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 52561, win 63900, length 0
+20:33:35.863323 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 52561:53981, ack 270, win 65535, length 1420
+20:33:35.863334 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 53981:55401, ack 270, win 65535, length 1420
+20:33:35.863337 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 55401:55481, ack 270, win 65535, length 80
+20:33:35.863419 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 55481, win 63900, length 0
+20:33:35.869426 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 55481:56901, ack 270, win 65535, length 1420
+20:33:35.869440 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 56901:58321, ack 270, win 65535, length 1420
+20:33:35.869443 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 58321:59741, ack 270, win 65535, length 1420
+20:33:35.869446 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 59741:61161, ack 270, win 65535, length 1420
+20:33:35.869448 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 61161:62581, ack 270, win 65535, length 1420
+20:33:35.869451 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 62581:64001, ack 270, win 65535, length 1420
+20:33:35.869453 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 64001:64241, ack 270, win 65535, length 240
+20:33:35.869631 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 64241, win 63900, length 0
+20:33:35.872167 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 64241:65661, ack 270, win 65535, length 1420
+20:33:35.872179 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], seq 65661:67081, ack 270, win 65535, length 1420
+20:33:35.872182 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [P.], seq 67081:67915, ack 270, win 65535, length 834
+20:33:35.872185 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [F.], seq 67915, ack 270, win 65535, length 0
+20:33:35.872850 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [.], ack 67916, win 63900, length 0
+20:33:35.872956 IP shane-VirtualBox.53338 > www.xjtu.edu.cn.www: Flags [F.], seq 270, ack 67916, win 63900, length 0
+20:33:35.873420 IP www.xjtu.edu.cn.www > shane-VirtualBox.53338: Flags [.], ack 271, win 65535, length 0
+
